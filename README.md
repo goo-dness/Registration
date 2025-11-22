@@ -26,6 +26,7 @@ Hi! I'm Goodness Akuba, a passionate backend developer with a knack for creating
 - **LinkedIn:**https://www.linkedin.com/in/goodness-akuba-4060a3391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 - **Twitter:**
 https://x.com/bit_think21799?t=VS1ISkZ_l9mVZ1i93IOB3A&s=09
+-**Phone Number:** 07076534093
 ---
 
 ## 🌐 Let's Connect!
