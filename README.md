@@ -8,7 +8,7 @@ I learn by building - every project teaches me something new.
 Building **Book Network** - A social platform for book lovers with semantic search powered by AI.
 
 **Tech Stack:**
-- **Backend:** Python, Django, Django REST Framework, PostgreSQL
+- **Backend:** Python, Fastapi, PostgreSQL
 - **Frontend:** React, JavaScript, HTML/CSS
 - **AI/ML:** Sentence Transformers (for semantic search)
 - **Tools:** Git, Linux, VS Code
@@ -31,7 +31,7 @@ Building **Book Network** - A social platform for book lovers with semantic sear
 
 ## 🛠️ Skills I'm Developing
 
-**Languages:** Python,semantics search, Django, etc. 
+**Languages:** Python,semantics search, Fastapi, etc. 
 **Backend:** Django, REST APIs, PostgreSQL, Authentication (JWT)  
 **Frontend:** React, Hooks, Routing, State Management  
 **AI/ML:** Natural Language Processing, Vector Embeddings  
@@ -41,7 +41,7 @@ Building **Book Network** - A social platform for book lovers with semantic sear
 - Books, w3school.
 - freeCodeCamp (React course)
 - Sentence Transformers documentation
-- Django & React official docs
+- Fastapi & React official docs
 - Stack Overflow (when I'm stuck!)
 
 ## 🎓 My Learning Philosophy
@@ -60,7 +60,7 @@ I don't just watch tutorials - I code along, break things, fix them, and underst
 - [ ] **Jun 2026:** First remote job or client
 
 ## 🌱 Currently Learning
-- Django REST Framework (building APIs)
+- Fastapi (building APIs)
 - React fundamentals (components, state, hooks)
 - PostgreSQL with pgvector (for storing embeddings)
 - Machine Learning basics (sentence transformers)
